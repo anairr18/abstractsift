@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+cache/
+embeddings_cache/
+performance_tracking/
+models/
+*.zip
+*.exe
+.env
